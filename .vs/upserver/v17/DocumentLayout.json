@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikon\\source\\repos\\upserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\lessontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\lessontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\lessongrouppart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\lessongrouppart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\upserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:upserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weekday.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Weekday.cs",
+              "RelativeDocumentMoniker": "Models\\Weekday.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Weekday.cs",
+              "RelativeToolTip": "Models\\Weekday.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:19:13.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:18:55.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:18:40.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentGroup.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\StudentGroup.cs",
+              "RelativeDocumentMoniker": "Models\\StudentGroup.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\StudentGroup.cs",
+              "RelativeToolTip": "Models\\StudentGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:18:21.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Specialty.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Specialty.cs",
+              "RelativeDocumentMoniker": "Models\\Specialty.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Specialty.cs",
+              "RelativeToolTip": "Models\\Specialty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:18:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Schedule.cs",
+              "RelativeToolTip": "Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:17:43.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LessonTime.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\LessonTime.cs",
+              "RelativeDocumentMoniker": "Models\\LessonTime.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\LessonTime.cs",
+              "RelativeToolTip": "Models\\LessonTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:17:28.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonGroupPart.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\LessonGroupPart.cs",
+              "RelativeDocumentMoniker": "Models\\LessonGroupPart.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\LessonGroupPart.cs",
+              "RelativeToolTip": "Models\\LessonGroupPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:17:04.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Classroom.cs",
+              "RelativeToolTip": "Models\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:16:44.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Building.cs",
+              "RelativeDocumentMoniker": "Models\\Building.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Building.cs",
+              "RelativeToolTip": "Models\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T11:15:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "upserver",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\upserver.csproj",
+              "RelativeDocumentMoniker": "upserver.csproj",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\upserver.csproj",
+              "RelativeToolTip": "upserver.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T11:07:47.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
