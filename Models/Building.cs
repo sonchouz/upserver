@@ -6,7 +6,7 @@ namespace upserver.Models
     public class Building
     {
         [Key]
-        [Column("buiding_id")]
+        [Column("building_id")]
         public int BuildingId { get; set; }
 
         [Column("name")]

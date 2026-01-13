@@ -22,9 +22,24 @@ namespace upserver.services
             return BuildScheduleDto(schedules);
         }
 
+        private List<ScheduleByDateDto> BuildScheduleDto(List<Schedule> schedules)
+        {
+            if (schedules == null || schedules.Count == 0)
+                return new List<ScheduleByDateDto>();
+
+            var byDate = schedules
+                .GroupBy(s => s.LessonDate.Date)
+                .OrderBy(g => g.Key)
+                .Select(g => BuildDayDto(g.ToList()))
+                .ToList();
+
+            return byDate;
+
+        }
+
         private static void ValidateDates(DateTime start, DateTime end) {
 
-            if(start > end{
+            if(start > end){
                 throw new ArgumentOutOfRangeException(nameof(start), "Дата начала больше даты окончания.");
             }
         }
@@ -43,7 +58,7 @@ namespace upserver.services
         private async Task<List<Schedule>> LoadSchedules(int groupId, DateTime start, DateTime end) {
             {
                 return await _db.Schedules.Where(s => s.GroupId == groupId && s.LessonDate >= start && s.LessonDate <= end).Include(s => s.Weekday)
-                .Include(s => s.LessonTime).Include(s => s.Subject).Include(s => s.Classroom).ThenInclude(c => c.Building).OrderBy(s => s.LessonDate)
+                .Include(s => s.LessonTime).Include(s => s.Subject).Include(s => s.Teacher).Include(s => s.Classroom).ThenInclude(c => c.Building).OrderBy(s => s.LessonDate)
                 .ThenBy(s => s.LessonTime.LessonNumber).ThenBy(s => s.GroupPart).ToListAsync();
             }
         }
