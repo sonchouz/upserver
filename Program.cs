@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.EntityFrameworkCore;
 using upserver.Data;
+using upserver.DTO;
+using upserver.services;
 
 var builder = WebApplication.CreateBuilder(args);
 DotNetEnv.Env.Load();
