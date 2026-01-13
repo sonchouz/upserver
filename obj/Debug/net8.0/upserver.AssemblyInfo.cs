@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("upserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a780096e2fde5c00cc69e8e3d2d08e388560ff7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad5e2bedf2320744f92a3a8123279be7506bb325")]
 [assembly: System.Reflection.AssemblyProductAttribute("upserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("upserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

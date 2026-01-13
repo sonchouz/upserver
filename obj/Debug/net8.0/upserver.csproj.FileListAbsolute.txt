@@ -33,3 +33,4 @@ C:\Users\nikon\source\repos\upserver\obj\Debug\net8.0\refint\upserver.dll
 C:\Users\nikon\source\repos\upserver\obj\Debug\net8.0\upserver.pdb
 C:\Users\nikon\source\repos\upserver\obj\Debug\net8.0\upserver.genruntimeconfig.cache
 C:\Users\nikon\source\repos\upserver\obj\Debug\net8.0\ref\upserver.dll
+C:\Users\nikon\source\repos\upserver\obj\Debug\net8.0\upserver.sourcelink.json
