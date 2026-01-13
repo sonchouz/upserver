@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.EntityFrameworkCore;
 using upserver.Data;
 using upserver.DTO;
+using upserver.Middlewares;
 using upserver.services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -26,6 +27,8 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+app.UseMiddleware<ExceptionMiddleware>();
+
 if(app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -33,7 +36,6 @@ if(app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-//app.UseMiddleware<ExceptionMiddleware>;
 
 app.UseAuthorization();
 app.UseRouting();

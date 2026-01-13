@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\nikon\\source\\repos\\upserver\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B82DCDF-F40C-4C4F-8F74-7703882CC5B1}|upserver.csproj|c:\\users\\nikon\\source\\repos\\upserver\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -51,6 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:40:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ScheduleByDateDto.cs",
               "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\DTO\\ScheduleByDateDto.cs",
               "RelativeDocumentMoniker": "DTO\\ScheduleByDateDto.cs",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "DTO\\ScheduleByDateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T08:23:32.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T08:23:32.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Classroom.cs",
               "RelativeDocumentMoniker": "Models\\Classroom.cs",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "Models\\Classroom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T08:17:46.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T08:17:46.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ScheduleController.cs",
               "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Controllers\\ScheduleController.cs",
               "RelativeDocumentMoniker": "Controllers\\ScheduleController.cs",
@@ -84,38 +99,37 @@
               "RelativeToolTip": "Controllers\\ScheduleController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T08:03:08.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T08:03:08.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T08:02:55.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ScheduleService.cs",
               "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\services\\ScheduleService.cs",
               "RelativeDocumentMoniker": "services\\ScheduleService.cs",
-              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\services\\ScheduleService.cs*",
-              "RelativeToolTip": "services\\ScheduleService.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwDMAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\nikon\\source\\repos\\upserver\\services\\ScheduleService.cs",
+              "RelativeToolTip": "services\\ScheduleService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T07:55:06.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Building.cs",
               "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\Models\\Building.cs",
               "RelativeDocumentMoniker": "Models\\Building.cs",
@@ -123,12 +137,11 @@
               "RelativeToolTip": "Models\\Building.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T11:15:17.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T11:15:17.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -136,12 +149,11 @@
               "RelativeToolTip": ".env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-13T05:40:37.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T05:40:37.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "upserver.csproj",
               "DocumentMoniker": "C:\\Users\\nikon\\source\\repos\\upserver\\upserver.csproj",
               "RelativeDocumentMoniker": "upserver.csproj",
