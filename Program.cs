@@ -18,6 +18,8 @@ $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")}";
 builder.Services.AddDbContext<AppDbContext>(options => options.UseNpgsql(connectionString));
 
 builder.Services.AddScoped<IScheduleService, ScheduleService>();
+builder.Services.AddScoped<IGroupsService, GroupsService>();
+
 
 builder.Services.AddControllers();
 
@@ -35,7 +37,7 @@ if(app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 app.UseAuthorization();
 app.UseRouting();

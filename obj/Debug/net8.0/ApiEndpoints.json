@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "upserver.Controllers.GroupsController",
+    "Method": "GetGroups",
+    "RelativePath": "api/group",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "upserver.Controllers.ScheduleController",
     "Method": "GetSchedule",
     "RelativePath": "api/schedule/group/{groupName}",
